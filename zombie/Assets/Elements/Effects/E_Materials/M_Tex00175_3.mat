@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Tex00175_3
+  m_Shader: {fileID: 4800000, guid: ce9e02e64dd2a254a80bffc7590fc599, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c5419445be1d9e54d9e89845c1e9a12d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Texture
+        second:
+          m_Texture: {fileID: 2800000, guid: 1c82ab447d0956b418244288c6a6c614, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _wenli
+        second:
+          m_Texture: {fileID: 2800000, guid: a7bc24fd7ee5867499956d1d1603c25e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _niuqu
+        second:
+          m_Texture: {fileID: 2800000, guid: 68eeb469f728e5f4c8a3b7bf0db975a0, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _smalltex
+        second:
+          m_Texture: {fileID: 2800000, guid: c88a85fdd259b9d4e90bdc7d01621ac8, type: 3}
+          m_Scale: {x: 0.5, y: 0.5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _bigtex
+        second:
+          m_Texture: {fileID: 2800000, guid: c88a85fdd259b9d4e90bdc7d01621ac8, type: 3}
+          m_Scale: {x: 0.8, y: 0.8}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _xiantiao
+        second:
+          m_Texture: {fileID: 2800000, guid: 55188b16a8bd460419dac67a7773b04b, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _InvFade
+        second: 1
+      data:
+        first:
+          name: _WPanner
+        second: 1
+      data:
+        first:
+          name: _TPanner
+        second: 3
+      data:
+        first:
+          name: _node_7427
+        second: 0.1
+      data:
+        first:
+          name: _Rate
+        second: 2
+      data:
+        first:
+          name: _Power
+        second: 50
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 0.60243404, b: 0.17647058, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

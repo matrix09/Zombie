@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Tex01183
+  m_Shader: {fileID: 4800000, guid: 04a73f3caa8031c499e7d863fb5401ee, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 12a9c57aa3f9ad14cb3f3df7bad0bb47, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveSrc
+        second:
+          m_Texture: {fileID: 2800000, guid: aeaa24c813947b4459a040a9756e4e00, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveSrcBump
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Blend_Texture
+        second:
+          m_Texture: {fileID: 2800000, guid: 080d53497dd7fd8438e8d35e192ec04a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Blend_Texture01
+        second:
+          m_Texture: {fileID: 2800000, guid: 4f4519c8dadf0a5478a89bac42233550, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ASETex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ImageBaseLight
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DeadTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _Shininess
+        second: 0.09055764
+      data:
+        first:
+          name: _InvFade
+        second: 1
+      data:
+        first:
+          name: _Amount
+        second: 0.98214287
+      data:
+        first:
+          name: _StartAmount
+        second: 0.2
+      data:
+        first:
+          name: _Illuminate
+        second: 0.375
+      data:
+        first:
+          name: _Tile
+        second: 1
+      data:
+        first:
+          name: _Speed01
+        second: 5
+      data:
+        first:
+          name: _Speed02
+        second: 10
+      data:
+        first:
+          name: _Lighten
+        second: 1
+      data:
+        first:
+          name: _LightenMain
+        second: 1
+      data:
+        first:
+          name: _BaseLight
+        second: 0.2
+      data:
+        first:
+          name: _EmmitRate
+        second: 2
+      data:
+        first:
+          name: _SpecRate
+        second: 2
+      data:
+        first:
+          name: _LerpTimer
+        second: 0
+      data:
+        first:
+          name: _LerpSpeed
+        second: 0.1
+      data:
+        first:
+          name: _Speed00
+        second: 0
+      data:
+        first:
+          name: _RimPower
+        second: 3
+      data:
+        first:
+          name: _RimIntensity
+        second: 3
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0, g: 0.15598893, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0.26183844, g: 0, b: 1, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 1, g: 0.3931034, b: 0, a: 0.5019608}
+      data:
+        first:
+          name: _DissColor
+        second: {r: 0.7215686, g: 0.9654361, b: 1, a: 1}
+      data:
+        first:
+          name: _ColorAnimate
+        second: {r: 10, g: 10, b: 10, a: 10}
+      data:
+        first:
+          name: _Color01
+        second: {r: 1, g: 0.54523325, b: 0.13235295, a: 1}
+      data:
+        first:
+          name: _Color02
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Color03
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Indicator
+        second: {r: 1, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: 1, g: 1, b: 1, a: 0}

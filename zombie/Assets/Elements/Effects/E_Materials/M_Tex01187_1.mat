@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Tex01187_1
+  m_Shader: {fileID: 4800000, guid: e0229bcb51f572e47afee50ad986eec7, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _wenli02
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a3c3617b7546364883543f803b6ecaf, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_57
+        second:
+          m_Texture: {fileID: 2800000, guid: 1acace4de3be7c54fbcb8a03d71d7473, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _wenli01
+        second:
+          m_Texture: {fileID: 2800000, guid: 1acace4de3be7c54fbcb8a03d71d7473, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _wenli03
+        second:
+          m_Texture: {fileID: 2800000, guid: aa1d7a4da87cd554ea17263334e6d047, type: 3}
+          m_Scale: {x: 1, y: -1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_9
+        second:
+          m_Texture: {fileID: 2800000, guid: 1b81fa3551372814c87a8f599a0e2ab9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_10
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a3c3617b7546364883543f803b6ecaf, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_24
+        second:
+          m_Texture: {fileID: 2800000, guid: c7bd7beefba474f47a8cf4de4a0cc8da, type: 3}
+          m_Scale: {x: .5, y: .5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_58
+        second:
+          m_Texture: {fileID: 2800000, guid: 1acace4de3be7c54fbcb8a03d71d7473, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_78
+        second:
+          m_Texture: {fileID: 2800000, guid: 96f499070fa29074faae49387bf1950a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _W2R
+        second: -.5
+      data:
+        first:
+          name: _node_8
+        second: 0
+      data:
+        first:
+          name: _gaodu
+        second: 0
+      data:
+        first:
+          name: _shendu
+        second: .5
+      data:
+        first:
+          name: _node_43
+        second: 0
+      data:
+        first:
+          name: _node_44
+        second: 0
+      data:
+        first:
+          name: _W1R
+        second: 0
+      data:
+        first:
+          name: _san
+        second: 1
+      data:
+        first:
+          name: _node_229
+        second: 4
+      data:
+        first:
+          name: _bianqiang
+        second: 5
+      data:
+        first:
+          name: _qiang
+        second: 1
+      data:
+        first:
+          name: _bian
+        second: .699999988
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _color
+        second: {r: .211764708, g: .533333361, b: .850980401, a: .784313738}
+      data:
+        first:
+          name: _node_109
+        second: {r: .417768836, g: .188235283, b: 1, a: 1}
+      data:
+        first:
+          name: _color_bian
+        second: {r: 1, g: 1, b: 1, a: 1}
