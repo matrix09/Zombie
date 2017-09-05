@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &157482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 457482}
+  - 114: {fileID: 11457482}
+  m_Layer: 0
+  m_Name: HuiXue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &457482
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157482}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11457482
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mMat: {fileID: 2100000, guid: 912df971da88bae408a93602055a1d6a, type: 2}
+  mUVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  mFont:
+    mSize: 65
+    mBase: 52
+    mWidth: 256
+    mHeight: 64
+    mSpriteName: 
+    mSaved:
+    - index: 48
+      x: 28
+      y: 0
+      width: 27
+      height: 48
+      offsetX: 1
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 49
+      x: 156
+      y: 0
+      width: 24
+      height: 48
+      offsetX: 3
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 50
+      x: 180
+      y: 0
+      width: 24
+      height: 48
+      offsetX: 2
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 51
+      x: 204
+      y: 0
+      width: 23
+      height: 48
+      offsetX: 3
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 52
+      x: 0
+      y: 0
+      width: 28
+      height: 48
+      offsetX: 0
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 53
+      x: 227
+      y: 0
+      width: 23
+      height: 48
+      offsetX: 3
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 54
+      x: 55
+      y: 0
+      width: 26
+      height: 48
+      offsetX: 2
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 55
+      x: 81
+      y: 0
+      width: 25
+      height: 48
+      offsetX: 2
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 56
+      x: 106
+      y: 0
+      width: 25
+      height: 48
+      offsetX: 2
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+    - index: 57
+      x: 131
+      y: 0
+      width: 25
+      height: 48
+      offsetX: 2
+      offsetY: 9
+      advance: 29
+      channel: 15
+      kerning: 
+  mAtlas: {fileID: 11443140, guid: 380d2f7f04e4a664ca72217eae71ff59, type: 2}
+  mReplacement: {fileID: 0}
+  mSymbols:
+  - sequence: 0
+    spriteName: UI_Number_putongjiaxue011
+  - sequence: 1
+    spriteName: UI_Number_putongjiaxue002
+  - sequence: 2
+    spriteName: UI_Number_putongjiaxue003
+  - sequence: 3
+    spriteName: UI_Number_putongjiaxue004
+  - sequence: 4
+    spriteName: UI_Number_putongjiaxue005
+  - sequence: 5
+    spriteName: UI_Number_putongjiaxue006
+  - sequence: 6
+    spriteName: UI_Number_putongjiaxue007
+  - sequence: 7
+    spriteName: UI_Number_putongjiaxue008
+  - sequence: 8
+    spriteName: UI_Number_putongjiaxue009
+  - sequence: 9
+    spriteName: UI_Number_putongjiaxue010
+  - sequence: +
+    spriteName: UI_Number_putongjiaxue001
+  mDynamicFont: {fileID: 0}
+  mDynamicFontSize: 16
+  mDynamicFontStyle: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 157482}
+  m_IsPrefabParent: 1

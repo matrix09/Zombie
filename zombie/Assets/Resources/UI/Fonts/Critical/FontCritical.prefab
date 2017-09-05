@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &135310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 472078}
+  - 114: {fileID: 11443546}
+  m_Layer: 0
+  m_Name: FontCritical
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &472078
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 135310}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11443546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 135310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mMat: {fileID: 2100000, guid: fc3d4f8fee58c574283c88d93d88a313, type: 2}
+  mUVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  mFont:
+    mSize: 32
+    mBase: 26
+    mWidth: 256
+    mHeight: 256
+    mSpriteName: 
+    mSaved:
+    - index: 45
+      x: 144
+      y: 0
+      width: 9
+      height: 2
+      offsetX: 0
+      offsetY: 18
+      advance: 9
+      channel: 15
+      kerning: 
+    - index: 48
+      x: 32
+      y: 0
+      width: 14
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 49
+      x: 134
+      y: 0
+      width: 9
+      height: 20
+      offsetX: 2
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 31000000feffffff
+    - index: 50
+      x: 47
+      y: 0
+      width: 14
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 51
+      x: 92
+      y: 0
+      width: 13
+      height: 20
+      offsetX: 1
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 52
+      x: 62
+      y: 0
+      width: 14
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 53
+      x: 106
+      y: 0
+      width: 13
+      height: 20
+      offsetX: 1
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 54
+      x: 77
+      y: 0
+      width: 14
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 55
+      x: 120
+      y: 0
+      width: 13
+      height: 20
+      offsetX: 1
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 56
+      x: 0
+      y: 0
+      width: 15
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+    - index: 57
+      x: 16
+      y: 0
+      width: 15
+      height: 20
+      offsetX: 0
+      offsetY: 6
+      advance: 15
+      channel: 15
+      kerning: 
+  mAtlas: {fileID: 11409922, guid: 734e140a9db159246b74d35e242a1955, type: 2}
+  mReplacement: {fileID: 0}
+  mSymbols:
+  - sequence: 0
+    spriteName: UI_Number_jianxue011
+  - sequence: 1
+    spriteName: UI_Number_jianxue002
+  - sequence: 2
+    spriteName: UI_Number_jianxue003
+  - sequence: 3
+    spriteName: UI_Number_jianxue004
+  - sequence: 4
+    spriteName: UI_Number_jianxue005
+  - sequence: 5
+    spriteName: UI_Number_jianxue006
+  - sequence: 6
+    spriteName: UI_Number_jianxue007
+  - sequence: 7
+    spriteName: UI_Number_jianxue008
+  - sequence: 8
+    spriteName: UI_Number_jianxue009
+  - sequence: 9
+    spriteName: UI_Number_jianxue010
+  - sequence: '-'
+    spriteName: UI_Number_jianxue001
+  mDynamicFont: {fileID: 0}
+  mDynamicFontSize: 16
+  mDynamicFontStyle: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 135310}
+  m_IsPrefabParent: 1
